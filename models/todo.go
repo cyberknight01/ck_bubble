@@ -6,7 +6,6 @@ import (
 
 //放置模型（即数据库的表定义）和数据库相关的增删改查操作
 
-
 //建立一个表 to do model
 type Todo struct {
 	ID int `json:"id"`
